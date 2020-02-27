@@ -1,0 +1,14 @@
+C:\Users\Игорь\source\repos\KizhiPart2\KizhiPart2\bin\Debug\KizhiPart2.exe.config
+C:\Users\Игорь\source\repos\KizhiPart2\KizhiPart2\bin\Debug\KizhiPart2.exe
+C:\Users\Игорь\source\repos\KizhiPart2\KizhiPart2\bin\Debug\KizhiPart2.pdb
+C:\Users\Игорь\source\repos\KizhiPart2\KizhiPart2\obj\Debug\KizhiPart2.csprojAssemblyReference.cache
+C:\Users\Игорь\source\repos\KizhiPart2\KizhiPart2\obj\Debug\KizhiPart2.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\KizhiPart2\KizhiPart2\obj\Debug\KizhiPart2.exe
+C:\Users\Игорь\source\repos\KizhiPart2\KizhiPart2\obj\Debug\KizhiPart2.pdb
+E:\c#Projects\Kontur2020\KizhiPart2\KizhiPart2\bin\Debug\KizhiPart2.exe.config
+E:\c#Projects\Kontur2020\KizhiPart2\KizhiPart2\bin\Debug\KizhiPart2.exe
+E:\c#Projects\Kontur2020\KizhiPart2\KizhiPart2\bin\Debug\KizhiPart2.pdb
+E:\c#Projects\Kontur2020\KizhiPart2\KizhiPart2\obj\Debug\KizhiPart2.csprojAssemblyReference.cache
+E:\c#Projects\Kontur2020\KizhiPart2\KizhiPart2\obj\Debug\KizhiPart2.csproj.CoreCompileInputs.cache
+E:\c#Projects\Kontur2020\KizhiPart2\KizhiPart2\obj\Debug\KizhiPart2.exe
+E:\c#Projects\Kontur2020\KizhiPart2\KizhiPart2\obj\Debug\KizhiPart2.pdb
